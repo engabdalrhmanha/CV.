@@ -50,14 +50,14 @@ body{
     content: center;
 }
 .header-overlay{
-    height:100vh;
+    height:400vh;
     width: 100vw;
     position: absolute;
     top: 0;
     left: 0;
     background: #225470;
     z-index:3;
-    opacity: 0.80;
+    opacity: 0.70;
 }
 .header-content{
     z-index:4;
